@@ -1,0 +1,3 @@
+use("store_demo")
+
+db.products.find()
